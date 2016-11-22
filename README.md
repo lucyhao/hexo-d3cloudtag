@@ -5,7 +5,7 @@
 ## Install
 
 ```bash
-$ npm install hexo-d3cloudtag --save
+$ npm install hexo-d3cloudtag@^1.0.0 --save
 ```
 
 ## Usage
